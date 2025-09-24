@@ -2,7 +2,7 @@ package ListaCircularDoble;
 
 public class Main {
     public static void main(String[] args) {
-        ListaCircularDoble<Integer> lista = new ListaCircularDoble<>();
+        ListaCircularDoble<Integer> lista = new ListaCircularDoble<Integer>();
 
         lista.agregarInicio(3);
         lista.agregarFinal(7);
