@@ -1,40 +1,74 @@
-<div align="center"><strong>📚 Práctica de Listas Enlazadas</strong></div>
+# <div align="center"><strong>📚 Práctica de Listas Enlazadas</strong></div>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/d1/ca/23/d1ca2368f80d4cc04789697e6a242c59.jpg" 
+       alt="Banner" width="900" height="180"/>
+</p>
+
+---
+
+## <div align="center"><strong>🧩 Estructuras Incluidas</strong></div>
+
+---
+
+### 🔹 <strong>Lista Simplemente Enlazada</strong>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dmjww2gh5/image/upload/v1764606649/Captura_de_pantalla_2025-12-01_112926_fbzvca.png"
+       width="500"
+       style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);" 
+       alt="Lista Simplemente Enlazada">
+</p>
+
+Una lista donde cada nodo apunta solamente al siguiente.  
+✔ Recorrido hacia adelante  
+✔ Implementación básica  
+✔ Ideal para inserts y deletes simples  
+
+---
+
+### 🔹 <strong>Lista Doblemente Enlazada</strong>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dmjww2gh5/image/upload/v1764606762/Captura_de_pantalla_2025-12-01_113145_u4vcik.png"
+       width="500"
+       style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);" 
+       alt="Lista Doble">
+</p>
+
+Cada nodo apunta al siguiente y al anterior.  
+✔ Navegación en ambos sentidos  
+✔ Más eficiente para inserciones en medio  
+✔ Mayor control en estructuras grandes  
+
+---
+
+### 🔹 <strong>Lista Circular Simple</strong>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dmjww2gh5/image/upload/v1764606753/Captura_de_pantalla_2025-12-01_113151_scbxag.png"
+       width="500"
+       style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);" 
+       alt="Lista Circular Simple">
+</p>
+
+El último nodo apunta al primero, formando un ciclo infinito.  
+✔ No existe un nodo final  
+✔ Perfecta para procesos repetitivos o colas circulares  
+
+---
+
+### 🔹 <strong>Lista Circular Doblemente Enlazada</strong>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dmjww2gh5/image/upload/v1764606754/Captura_de_pantalla_2025-12-01_113205_f2qjbq.png"
+       width="500"
+       style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.25);" 
+       alt="Lista Circular Doble">
+</p>
+
+Cada nodo está conectado hacia adelante y hacia atrás, formando un ciclo.  
+✔ Navegación infinita  
+✔ Ideal para menús, reproductores o listas rotativas  
 
 
-Este proyecto contiene la implementación de diferentes tipos de listas enlazadas, utilizadas para comprender su lógica interna, estructuras, operaciones comunes y diferencias entre cada una.
-Es ideal para prácticas universitarias y visualización de estructuras dinámicas.
-
-
-<div align="center"><strong>🧩 Estructuras Incluidas</strong></div>
-
-<span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Simple</strong></span>
-
-Una estructura lineal donde cada nodo almacena un dato y una referencia al siguiente.
-
-Navegación únicamente hacia adelante.
-
-Fácil de implementar y eficiente en inserciones y eliminaciones de extremos.
-
-<span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Doble</strong></span>
-
-Cada nodo tiene una referencia al siguiente y otra al anterior.
-
-Permite recorridos en ambas direcciones.
-
-Es más versátil para inserciones y eliminaciones en posiciones intermedias.
-
-<span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Circular Simple</strong></span>
-
-La última posición apunta nuevamente al primer nodo.
-
-No existe un final nulo.
-
-Útil en sistemas que requieren ciclos continuos.
-
-<span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Circular Doble</strong></span>
-
-Combina doble enlace con estructura circular.
-
-Se navega hacia adelante y atrás sin límite.
-
-Ideal para navegaciones cíclicas completas.
