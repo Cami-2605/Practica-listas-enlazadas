@@ -1,10 +1,5 @@
 # <div align="center"><strong>📚 Práctica de Listas Enlazadas</strong></div>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/d1/ca/23/d1ca2368f80d4cc04789697e6a242c59.jpg" 
-       alt="Banner" width="900" height="180"/>
-</p>
-
 ---
 
 ## <div align="center"><strong>🧩 Estructuras Incluidas</strong></div>
