@@ -1,9 +1,12 @@
 <div align="center"><strong>📚 Práctica de Listas Enlazadas</strong></div>
 
+
 Este proyecto contiene la implementación de diferentes tipos de listas enlazadas, utilizadas para comprender su lógica interna, estructuras, operaciones comunes y diferencias entre cada una.
 Es ideal para prácticas universitarias y visualización de estructuras dinámicas.
 
+
 <div align="center"><strong>🧩 Estructuras Incluidas</strong></div>
+
 <span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Simple</strong></span>
 
 Una estructura lineal donde cada nodo almacena un dato y una referencia al siguiente.
