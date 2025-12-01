@@ -1,37 +1,37 @@
-📚 Práctica de Listas Enlazadas
+<div align="center"><strong>📚 Práctica de Listas Enlazadas</strong></div>
 
 Este proyecto contiene la implementación de diferentes tipos de listas enlazadas, utilizadas para comprender su lógica interna, estructuras, operaciones comunes y diferencias entre cada una.
-Es ideal para fines educativos, pruebas y visualización del funcionamiento de estructuras dinámicas.
+Es ideal para prácticas universitarias y visualización de estructuras dinámicas.
 
-🧩 Estructuras Incluidas
-🔹 Lista Simple
+<div align="center"><strong>🧩 Estructuras Incluidas</strong></div>
+<span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Simple</strong></span>
 
-Una estructura lineal donde cada nodo almacena un dato y una referencia al siguiente nodo.
+Una estructura lineal donde cada nodo almacena un dato y una referencia al siguiente.
 
 Navegación únicamente hacia adelante.
 
-Implementación sencilla y eficiente para inserciones y eliminaciones en los extremos.
+Fácil de implementar y eficiente en inserciones y eliminaciones de extremos.
 
-🔹 Lista Doble
+<span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Doble</strong></span>
 
-Cada nodo contiene una referencia al nodo siguiente y al anterior.
+Cada nodo tiene una referencia al siguiente y otra al anterior.
 
-Permite recorrer la lista en ambas direcciones.
+Permite recorridos en ambas direcciones.
 
-Facilita operaciones intermedias.
+Es más versátil para inserciones y eliminaciones en posiciones intermedias.
 
-🔹 Lista Circular Simple
+<span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Circular Simple</strong></span>
 
-Similar a la lista simple, pero el último nodo apunta nuevamente al primero.
+La última posición apunta nuevamente al primer nodo.
 
-No tiene un final nulo.
+No existe un final nulo.
 
-Útil para recorridos cíclicos.
+Útil en sistemas que requieren ciclos continuos.
 
-🔹 Lista Circular Doble
+<span style="font-family: 'Times New Roman', serif;">🔹 <strong>Lista Circular Doble</strong></span>
 
-Una lista doble enlazada donde el último nodo apunta al primero y viceversa.
+Combina doble enlace con estructura circular.
 
-Se puede avanzar y retroceder sin límites.
+Se navega hacia adelante y atrás sin límite.
 
-Ideal para navegaciones cíclicas más completas.
+Ideal para navegaciones cíclicas completas.
